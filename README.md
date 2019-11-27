@@ -1,8 +1,8 @@
-# Simon_says :fa-pie-chart:
+# Simon_says :sunny:
 
 - This is an incredible game from the JavaScript fundaments course imparted by Platzi.
 
-####- In this course we learned:
+#### - In this course we learned:
 
 >
 
